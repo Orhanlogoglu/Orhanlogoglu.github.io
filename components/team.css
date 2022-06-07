@@ -1,0 +1,32 @@
+.team-team {
+  width: 1579px;
+  height: 47px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team-container {
+  flex: 0 0 auto;
+  width: 1191px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.team-text {
+  font-weight: 700;
+}
+.team-container1 {
+  flex: 0 0 auto;
+  width: 385px;
+  height: 52px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.team-text1 {
+  font-weight: 700;
+}
